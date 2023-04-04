@@ -1,0 +1,114 @@
+[
+    {
+        "name": "Illinois Avenue (Red 3)",
+        "num_rolls": 292763
+    },
+    {
+        "name": "Tennessee Avenue (Orange 2)",
+        "num_rolls": 277003
+    },
+    {
+        "name": "New York Avenue (Orange 3)",
+        "num_rolls": 271727
+    },
+    {
+        "name": "B & O Railroad (Railroad 3)",
+        "num_rolls": 265271
+    },
+    {
+        "name": "St. James Place (Orange 1)",
+        "num_rolls": 264933
+    },
+    {
+        "name": "Electric Company (Utility 1)",
+        "num_rolls": 262009
+    },
+    {
+        "name": "Reading Railroad (Railroad 1)",
+        "num_rolls": 261855
+    },
+    {
+        "name": "Water Works (Utility 2)",
+        "num_rolls": 259847
+    },
+    {
+        "name": "Kentucky Avenue (Red 1)",
+        "num_rolls": 252143
+    },
+    {
+        "name": "St. Charles Place (Pink 1)",
+        "num_rolls": 250652
+    },
+    {
+        "name": "Indiana Avenue (Red 2)",
+        "num_rolls": 249190
+    },
+    {
+        "name": "Atlantic Avenue (Yellow 1)",
+        "num_rolls": 248379
+    },
+    {
+        "name": "Ventnor Avenue (Yellow 2)",
+        "num_rolls": 247573
+    },
+    {
+        "name": "Pacific Avenue (Green 1)",
+        "num_rolls": 246135
+    },
+    {
+        "name": "Boardwalk (Blue 2)",
+        "num_rolls": 244059
+    },
+    {
+        "name": "Virginia Avenue (Pink 3)",
+        "num_rolls": 242313
+    },
+    {
+        "name": "Pennsylvania Railroad (Railroad 2)",
+        "num_rolls": 241413
+    },
+    {
+        "name": "Marvin Gardens (Yellow 3)",
+        "num_rolls": 239657
+    },
+    {
+        "name": "North Carolina Avenue (Green 2)",
+        "num_rolls": 239262
+    },
+    {
+        "name": "Pennsylvania Avenue (Green 3)",
+        "num_rolls": 228578
+    },
+    {
+        "name": "Short Line (Railroad 4)",
+        "num_rolls": 222922
+    },
+    {
+        "name": "Vermont Avenue (Aqua 2)",
+        "num_rolls": 214385
+    },
+    {
+        "name": "Connecticut Avenue (Aqua 3)",
+        "num_rolls": 211583
+    },
+    {
+        "name": "States Avenue (Pink 2)",
+        "num_rolls": 210685
+    },
+    {
+        "name": "Oriental Avenue (Aqua 1)",
+        "num_rolls": 209740
+    },
+    {
+        "name": "Park Place (Blue 1)",
+        "num_rolls": 201136
+    },
+    {
+        "name": "Baltic Avenue (Brown 2)",
+        "num_rolls": 201091
+    },
+    {
+        "name": "Mediterranean Avenue (Brown 1)",
+        "num_rolls": 197634
+    }
+]
